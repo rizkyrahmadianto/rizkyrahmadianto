@@ -1,5 +1,5 @@
 👋 Hi, I’m Rizky Rahmadianto!  
-👀 I’m interested in exploring exploring website developments such as architecture, front-end and backend. Apart from that, software testing.  
+👀 I’m interested in exploring website developments such as architecture, front-end and backend. Apart from that, software testing.  
 🌱 I’m currently learning about full-stack development, especially on websites and learning to become a software tester to enhance my skills and broaden my knowledge.  
 💞️ Now I'm focusing on studying and exploring software quality assurance at PT. Kasir Pintar Internasional.  
 📫 How to reach me: Feel free to shoot me a message on GitHub or connect with me on LinkedIn.  
